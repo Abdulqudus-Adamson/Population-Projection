@@ -3,7 +3,7 @@
 # One death every 13 seconds.
 # One new immigrant every 45 seconds.
 
-# This programme was created to give the birth rate , death rate , immigrant rate and population after a year and 5 years later.
+# This programme prompts the user to enter to enter the current population of a country,state or city and gives the birth rate , death rate , immigrant rate and population after a year and 5 years later.
 
 
 current_Population = input("Enter the amount of the current population: ")
